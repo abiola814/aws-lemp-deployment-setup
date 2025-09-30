@@ -277,7 +277,7 @@ Save and close the file.
 ---
 
 ## 🔗 Repository Link  
-[GitHub – LEMP Stack Deployment on AWS](https://github.com/lems01/aws-lemp-stack-deployment)  
+[GitHub – LEMP Stack Deployment on AWS](https://github.com/abiola814/aws-lemp-deployment-setup)  
 
 ---
 
